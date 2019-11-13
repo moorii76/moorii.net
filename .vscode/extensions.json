@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"coenraads.bracket-pair-colorizer",
+		"dbaeumer.vscode-eslint",
+		"xabikos.javascriptsnippets",
+		"esbenp.prettier-vscode",
+		"shinnn.stylelint",
+		"octref.vetur",
+		"leizongmin.node-module-intellisense",
+	],
+	"unwantedRecommendations": []
+}

@@ -1,0 +1,33 @@
+{
+  "name": "moorii.net",
+  "version": "1.0.0",
+  "description": "moorii profile website",
+  "repository": "git@github.com:moorii76/moorii.net.git",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier-eslint --write 'src/.vuepress/**/*.js' 'src/.vuepress/**/*.vue'",
+    "lint": "eslint src/.vuepress/ --ext .js,.vue",
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,vue}": [
+      "yarn prettier",
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.0.1",
+    "husky": "^3.0.9",
+    "lint-staged": "^9.4.2",
+    "prettier": "^1.19.1",
+    "prettier-eslint-cli": "^5.0.0",
+    "vuepress": "^1.2.0"
+  }
+}
