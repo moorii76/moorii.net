@@ -11,7 +11,7 @@ module.exports = {
     sidebar: false,
     search: false,
     nav: [
-      { text: 'Career', link: '/career' },
+      { text: 'Experience', link: '/experience' },
       { text: 'Portfolio', link: '/portfolio' },
       {
         text: 'Extra',
