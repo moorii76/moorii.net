@@ -35,6 +35,8 @@
   * 業務で1年程
 * Vue.js・Nuxt.js
   * 1年程
+* React
+  * 1ヶ月程
 * Node.js
   * 3ヶ月程
 * Echo
