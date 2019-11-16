@@ -6,7 +6,6 @@ module.exports = {
       description: 'my profile website'
     }
   },
-  head: [['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]],
   themeConfig: {
     sidebar: false,
     search: false,
