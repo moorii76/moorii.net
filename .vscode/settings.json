@@ -1,21 +1,5 @@
 {
   "editor.tabSize": 2,
-  "eslint.packageManager": "yarn",
-  "eslint.nodePath": "./node_modules/eslint/bin/eslint.js",
-  "eslint.autoFixOnSave": true,
-  "eslint.run": "onSave",
-  "eslint.workingDirectories": ["./src"],
-  "eslint.options": {
-    "configFile": "../.eslintrc.js"
-  },
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    {
-      "language": "vue",
-      "autoFix": true
-    },
-  ],
   "markdownlint.config": {
     "MD041": false,
     "MD033": false
