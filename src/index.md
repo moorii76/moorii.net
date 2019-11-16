@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/profile.jpg
+heroImage: /assets/img/profile.jpg
 heroText: もーりー@エンジニア
 tagline: ロマンを求めているエンジニアです
 footer: © 2019 moorii

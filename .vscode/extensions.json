@@ -8,6 +8,7 @@
 		"octref.vetur",
 		"leizongmin.node-module-intellisense",
 		"davidanson.vscode-markdownlint",
+		"sysoev.language-stylus",
 	],
 	"unwantedRecommendations": []
 }
