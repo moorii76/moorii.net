@@ -81,6 +81,6 @@
 * Adobe XD
 * draw.io
 * Swagger
-* Visual Studio Code
 * Eclipse
+* Visual Studio
 * VSCode
